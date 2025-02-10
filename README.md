@@ -1,0 +1,1 @@
+This repository features an ML model for classifying iris flowers using the Iris dataset. Using the Random Forest algorithm from scikit-learn, users can input flower measurements (sepal and petal dimensions) to predict the species (Setosa, Versicolor, or Virginica). The model is saved with pickle for easy loading and efficient predictions.
